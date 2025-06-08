@@ -1,0 +1,1 @@
+/Users/om/Rust/chip8/target/debug/chip8: /Users/om/Rust/chip8/src/cpu.rs /Users/om/Rust/chip8/src/display.rs /Users/om/Rust/chip8/src/keypad.rs /Users/om/Rust/chip8/src/lib.rs /Users/om/Rust/chip8/src/main.rs /Users/om/Rust/chip8/src/memory.rs
